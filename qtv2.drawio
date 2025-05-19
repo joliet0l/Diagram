@@ -759,7 +759,7 @@
         <mxCell id="l7Nk4WWoJexwj-0jvtcs-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l7Nk4WWoJexwj-0jvtcs-239" target="l7Nk4WWoJexwj-0jvtcs-252">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3FGBoalNjB8YjJQNoI3s-1" value="1. 循环队列一般用于保存内存块的指针，因此通常返回的是指针的地址。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="3FGBoalNjB8YjJQNoI3s-1" value="1. 循环队列一般用于保存内存块的指针" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="330" y="80" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
@@ -1217,12 +1217,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GaccocoYS-4GioSNCVJ7" name="计数器">
-    <mxGraphModel dx="2946" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1683" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U2s1H_Np_Kdy26HmvSzW-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;水线计数器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cnt:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="160" height="90" as="geometry" />
+        <mxCell id="U2s1H_Np_Kdy26HmvSzW-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;水线计数器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Cnt:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Max&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Et&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Ft&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Neld&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Nfld&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="160" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1673,6 +1673,12 @@
         </mxCell>
         <mxCell id="fkt0QlhkfTBuFyXfFWMn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fkt0QlhkfTBuFyXfFWMn-38" target="fkt0QlhkfTBuFyXfFWMn-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rnz9qLw1l_EEUxGpU5Im-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;命令序列&lt;/h1&gt;&lt;p&gt;- cnpop&lt;/p&gt;&lt;p&gt;- rnpush&lt;/p&gt;&lt;p&gt;- cntwi&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="616" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rnz9qLw1l_EEUxGpU5Im-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;命令序列&lt;/h1&gt;&lt;p&gt;- cnpop&lt;/p&gt;&lt;p&gt;- rnpush&lt;/p&gt;&lt;p&gt;- cntwi&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652" y="1036" width="150" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
