@@ -660,14 +660,14 @@
             <mxPoint x="175" y="2365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7Nk4WWoJexwj-0jvtcs-224" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="l7Nk4WWoJexwj-0jvtcs-225" target="l7Nk4WWoJexwj-0jvtcs-214">
+        <mxCell id="l7Nk4WWoJexwj-0jvtcs-224" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="l7Nk4WWoJexwj-0jvtcs-225" target="l7Nk4WWoJexwj-0jvtcs-216">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="2435" as="sourcePoint" />
             <mxPoint x="230" y="2395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l7Nk4WWoJexwj-0jvtcs-225" value="WrPtr" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="2435" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="2435" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l7Nk4WWoJexwj-0jvtcs-226" value="RdPtr" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="2295" width="60" height="30" as="geometry" />
@@ -675,7 +675,7 @@
         <mxCell id="l7Nk4WWoJexwj-0jvtcs-227" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u&gt;rnpop&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="605" y="2295" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7Nk4WWoJexwj-0jvtcs-228" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;循环队列&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ MaxPtr =&amp;nbsp; 15&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ RdPtr = 6&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ WrPtr = 8&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ BaseAddr: 20&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="l7Nk4WWoJexwj-0jvtcs-228" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;循环队列&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ MaxPtr =&amp;nbsp; 15&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ RdPtr = 6&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ WrPtr = 9&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ BaseAddr: 20&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="35" y="2405" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l7Nk4WWoJexwj-0jvtcs-229" value="&lt;div align=&quot;left&quot;&gt;rnpop rd, {imm[11:4],2’b0}(rs1), imm[3:2], imm[1:0]&lt;br&gt;&lt;/div&gt;从 imm[11:4]*4+rs1 地址(byte)的循环计数器指定队头节点(最老节点)地址并将其写至当&lt;br&gt;前寄存器窗口 rd 开始的 GPR，同时更新计数器以从队列弹出节点。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
