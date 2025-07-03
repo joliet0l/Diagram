@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="27.1.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="27.2.0">
   <diagram name="第 1 页" id="C6WUxLA_IsD6_2jenv0h">
-    <mxGraphModel>
+    <mxGraphModel dx="2572" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Linux&lt;/font&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=40;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="190" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-3" value="APP" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="iQ2yVHd8PC2cBywCre6R-2">
+          <mxGeometry y="40" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iQ2yVHd8PC2cBywCre6R-3" source="iQ2yVHd8PC2cBywCre6R-8" target="iQ2yVHd8PC2cBywCre6R-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-8" value="open" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iQ2yVHd8PC2cBywCre6R-3">
+          <mxGeometry x="40" y="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iQ2yVHd8PC2cBywCre6R-3" source="iQ2yVHd8PC2cBywCre6R-9" target="iQ2yVHd8PC2cBywCre6R-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-9" value="read" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iQ2yVHd8PC2cBywCre6R-3">
+          <mxGeometry x="140" y="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iQ2yVHd8PC2cBywCre6R-3" source="iQ2yVHd8PC2cBywCre6R-10" target="iQ2yVHd8PC2cBywCre6R-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-10" value="&lt;div&gt;write&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iQ2yVHd8PC2cBywCre6R-3">
+          <mxGeometry x="250" y="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-11" value="close" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iQ2yVHd8PC2cBywCre6R-3">
+          <mxGeometry x="360" y="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-4" value="ttyxbus Driver" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="iQ2yVHd8PC2cBywCre6R-2">
+          <mxGeometry y="160" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ2yVHd8PC2cBywCre6R-5" value="XBUS" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="iQ2yVHd8PC2cBywCre6R-2">
+          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
