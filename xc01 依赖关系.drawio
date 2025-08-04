@@ -353,7 +353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C8PfnZwlQo3wPHb5lvCv" name="RPC">
-    <mxGraphModel dx="1683" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2032" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -779,6 +779,9 @@
         </mxCell>
         <mxCell id="p2gK1NI16GaBhE0tVO2C-3" value="libgpio2iic_rtt.a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="1617" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p2gK1NI16GaBhE0tVO2C-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.374;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ngNz4D62bIwjoxdM7TAB-11" target="oJ9oMa6E6fm8xP-SY0Yv-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
