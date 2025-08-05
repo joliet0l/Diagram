@@ -353,7 +353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C8PfnZwlQo3wPHb5lvCv" name="RPC">
-    <mxGraphModel dx="1683" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2032" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -805,9 +805,6 @@
         </mxCell>
         <mxCell id="p2gK1NI16GaBhE0tVO2C-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.327;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p2gK1NI16GaBhE0tVO2C-1" target="oJ9oMa6E6fm8xP-SY0Yv-9">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p2gK1NI16GaBhE0tVO2C-15" value="libadvapi.a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1569" y="3290" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p2gK1NI16GaBhE0tVO2C-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p2gK1NI16GaBhE0tVO2C-16">
           <mxGeometry relative="1" as="geometry">
