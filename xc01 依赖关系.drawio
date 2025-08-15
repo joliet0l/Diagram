@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.1.0" pages="2">
   <diagram name="Linux" id="HvUOIocHKBapucaxDCyF">
-    <mxGraphModel dx="2852" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2572" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="B1P1WOeIG1nE8jU6n831-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="1040" y="420" width="340" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8_r2tJy2Vj6CYS1bndZp-11" target="B1P1WOeIG1nE8jU6n831-7">
+        <mxCell id="8_r2tJy2Vj6CYS1bndZp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8_r2tJy2Vj6CYS1bndZp-11" target="B1P1WOeIG1nE8jU6n831-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="8_r2tJy2Vj6CYS1bndZp-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="1360" y="50" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="B1P1WOeIG1nE8jU6n831-76" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
@@ -358,50 +358,47 @@
         <mxCell id="owHGYLoNhXr26hsm2e1N-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Linux 架构&lt;/h1&gt;&lt;p&gt;1. 多媒体的大部分API均由libmpi.a 提供。&lt;/p&gt;&lt;p&gt;2. 多媒体驱动可以按需加载。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="-610" y="860" width="550" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="umPC_H4Ay_sKS1-bSxrE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="umPC_H4Ay_sKS1-bSxrE-1" target="B1P1WOeIG1nE8jU6n831-18">
+        <mxCell id="umPC_H4Ay_sKS1-bSxrE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="umPC_H4Ay_sKS1-bSxrE-1" target="B1P1WOeIG1nE8jU6n831-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="umPC_H4Ay_sKS1-bSxrE-1" value="libadvapi_isp.a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="umPC_H4Ay_sKS1-bSxrE-1" value="libadvapi_isp.a" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="228" y="-30" width="123" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2uC25Ydu3zufUnOZvNtu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B1P1WOeIG1nE8jU6n831-67" target="j-SoW3xQul4vtmljvLiX-5">
+        <mxCell id="2uC25Ydu3zufUnOZvNtu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="B1P1WOeIG1nE8jU6n831-67" target="j-SoW3xQul4vtmljvLiX-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2uC25Ydu3zufUnOZvNtu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.8;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j-SoW3xQul4vtmljvLiX-5" target="B1P1WOeIG1nE8jU6n831-68">
+        <mxCell id="2uC25Ydu3zufUnOZvNtu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.8;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="j-SoW3xQul4vtmljvLiX-5" target="B1P1WOeIG1nE8jU6n831-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="8_r2tJy2Vj6CYS1bndZp-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-660" y="400" as="sourcePoint" />
             <mxPoint x="1910" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-2" value="libispcore.a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291" y="300" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-3" value="libisp.a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291" y="230" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-4" value="libdbi.a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8_r2tJy2Vj6CYS1bndZp-4" value="libdbi.a" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="291" y="150" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-5" value="libispcore.a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8_r2tJy2Vj6CYS1bndZp-5" value="libispcore.a" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1397" y="275" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8_r2tJy2Vj6CYS1bndZp-9" target="8_r2tJy2Vj6CYS1bndZp-5">
+        <mxCell id="8_r2tJy2Vj6CYS1bndZp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8_r2tJy2Vj6CYS1bndZp-9" target="8_r2tJy2Vj6CYS1bndZp-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-9" value="libisp.a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8_r2tJy2Vj6CYS1bndZp-9" value="libisp.a" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1397" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8_r2tJy2Vj6CYS1bndZp-10" target="8_r2tJy2Vj6CYS1bndZp-9">
+        <mxCell id="8_r2tJy2Vj6CYS1bndZp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8_r2tJy2Vj6CYS1bndZp-10" target="8_r2tJy2Vj6CYS1bndZp-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-10" value="libdbi.a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8_r2tJy2Vj6CYS1bndZp-10" value="libdbi.a" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1397" y="110" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8_r2tJy2Vj6CYS1bndZp-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;ISP460&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8_r2tJy2Vj6CYS1bndZp-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;ISP460&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1460" y="56" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhSwt0R9j8Zmk5NVKkNY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B1P1WOeIG1nE8jU6n831-17" target="j-SoW3xQul4vtmljvLiX-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
