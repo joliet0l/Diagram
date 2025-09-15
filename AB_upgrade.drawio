@@ -863,12 +863,12 @@
             <mxRectangle width="177" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-UqPeTHMPVmn-PkUEe3-77" value="24M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="z-UqPeTHMPVmn-PkUEe3-75">
+        <mxCell id="z-UqPeTHMPVmn-PkUEe3-77" value="20M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="z-UqPeTHMPVmn-PkUEe3-75">
           <mxGeometry x="177" width="176" height="40" as="geometry">
             <mxRectangle width="176" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-UqPeTHMPVmn-PkUEe3-78" value="6M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="z-UqPeTHMPVmn-PkUEe3-75">
+        <mxCell id="z-UqPeTHMPVmn-PkUEe3-78" value="4M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="z-UqPeTHMPVmn-PkUEe3-75">
           <mxGeometry x="353" width="177" height="40" as="geometry">
             <mxRectangle width="177" height="40" as="alternateBounds" />
           </mxGeometry>
