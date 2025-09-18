@@ -1250,7 +1250,7 @@
         <mxCell id="XWu9fNGKV99tUUrfwR8c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-GbAD3cxUKy5k44_8aW-1" target="XWu9fNGKV99tUUrfwR8c-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWu9fNGKV99tUUrfwR8c-4" value="Download" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XWu9fNGKV99tUUrfwR8c-3">
+        <mxCell id="XWu9fNGKV99tUUrfwR8c-4" value="下载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="XWu9fNGKV99tUUrfwR8c-3">
           <mxGeometry x="-0.2444" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1299,6 +1299,11 @@
         </mxCell>
         <mxCell id="D-GbAD3cxUKy5k44_8aW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="D-GbAD3cxUKy5k44_8aW-11" target="D-GbAD3cxUKy5k44_8aW-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XWu9fNGKV99tUUrfwR8c-23" value="打包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="D-GbAD3cxUKy5k44_8aW-15">
+          <mxGeometry x="-0.2778" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="D-GbAD3cxUKy5k44_8aW-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="250" y="200" width="20" height="130" as="geometry" />
