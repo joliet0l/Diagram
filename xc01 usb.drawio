@@ -299,7 +299,7 @@
         <mxCell id="mfAAra-8imVMctXztjtx-21" value="USB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="797" y="540" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mfAAra-8imVMctXztjtx-23" value="TCP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="mfAAra-8imVMctXztjtx-23" value="Socket" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1290" y="540" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-24" value="USB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
@@ -314,7 +314,7 @@
         <mxCell id="mfAAra-8imVMctXztjtx-27" value="Network" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1205" y="670" width="396" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="mfAAra-8imVMctXztjtx-28" value="socket" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="mfAAra-8imVMctXztjtx-28" value="TCP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1298" y="750" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-29" value="USB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
