@@ -297,10 +297,10 @@
           <mxGeometry x="704" y="460" width="890" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-21" value="USB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="780" y="540" width="210" height="40" as="geometry" />
+          <mxGeometry x="797" y="540" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-23" value="TCP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="540" width="210" height="40" as="geometry" />
+          <mxGeometry x="1290" y="540" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-24" value="USB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="704" y="670" width="396" height="150" as="geometry" />
@@ -359,7 +359,7 @@
         <mxCell id="mfAAra-8imVMctXztjtx-44" value="Base lib" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
           <mxGeometry x="420" y="720" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mfAAra-8imVMctXztjtx-45" value="commuca" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
+        <mxCell id="mfAAra-8imVMctXztjtx-45" value="communicate" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
           <mxGeometry x="420" y="520" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-46" value="command" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
