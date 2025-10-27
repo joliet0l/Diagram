@@ -274,28 +274,124 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mfAAra-8imVMctXztjtx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="120" width="890" height="180" as="geometry" />
+          <mxGeometry x="704" y="110" width="890" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-2" value="Device" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="430" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="780" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-8" value="Sensor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="590" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="933" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-9" value="Frame" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="740" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="1085" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-10" value="ISP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="880" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="1238" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-11" value="Power" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="1390" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-12" value="AF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="430" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="780" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfAAra-8imVMctXztjtx-13" value="LC/OS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="600" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="933" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-14" value="Status" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-15" value="Ext IO" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-16" value="Debug" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-18" value="Imgkit command protocol" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="704" y="340" width="890" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-19" value="command API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="704" y="460" width="890" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-21" value="USB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="780" y="540" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-23" value="TCP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="540" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-24" value="USB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="704" y="670" width="396" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-25" value="libuvc" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="790" y="710" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-26" value="libusb" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="790" y="770" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-27" value="Network" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="670" width="396" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-28" value="socket" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1298" y="750" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-29" value="USB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="704" y="890" width="396" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-30" value="WinUSB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="790" y="930" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-32" value="Network" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="880" width="396" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-33" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1298" y="920" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1050" as="sourcePoint" />
+            <mxPoint x="1910" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-36" value="USB UVC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="704" y="1120" width="396" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-37" value="XU" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1190" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-39" value="Network" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1120" width="396" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-40" value="Daemon" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1303" y="1190" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-41" value="Imgkit command Handler" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="711" y="1330" width="890" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-42" value="Imgkit APP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="711" y="1460" width="890" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-43" value="Application" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
+          <mxGeometry x="420" y="185" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-44" value="Base lib" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
+          <mxGeometry x="420" y="720" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-45" value="commuca" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-46" value="command" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-49" value="Driver" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
+          <mxGeometry x="420" y="935" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-50" value="command" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
+          <mxGeometry x="420" y="1350" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-51" value="Device" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
+          <mxGeometry x="420" y="1170" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-52" value="MPP" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=6" vertex="1" parent="1">
+          <mxGeometry x="420" y="1490" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
