@@ -269,10 +269,34 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ocrEL7qI3Utz-C1teIgm" name="第 3 页">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2946" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mfAAra-8imVMctXztjtx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="890" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-2" value="Device" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-8" value="Sensor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-9" value="Frame" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="740" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-10" value="ISP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="880" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-11" value="Power" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-12" value="AF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfAAra-8imVMctXztjtx-13" value="LC/OS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
