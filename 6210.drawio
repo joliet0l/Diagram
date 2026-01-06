@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
   <diagram name="第 1 页" id="g_HnJDib6mddWaT7zvIJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1837" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IbIzo-WlREjd21_OLtaA-6" edge="1" parent="1" source="IbIzo-WlREjd21_OLtaA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="IbIzo-WlREjd21_OLtaA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-11" connectable="0" parent="IbIzo-WlREjd21_OLtaA-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sdMode = 1" vertex="1">
+          <mxGeometry relative="1" x="0.5209" y="11" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-7" edge="1" parent="1" source="IbIzo-WlREjd21_OLtaA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="IbIzo-WlREjd21_OLtaA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-13" connectable="0" parent="IbIzo-WlREjd21_OLtaA-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="afdMode != 0" vertex="1">
+          <mxGeometry relative="1" x="0.0526" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-8" edge="1" parent="1" source="IbIzo-WlREjd21_OLtaA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="IbIzo-WlREjd21_OLtaA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-14" connectable="0" parent="IbIzo-WlREjd21_OLtaA-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="decMod != 0" vertex="1">
+          <mxGeometry relative="1" x="0.563" y="-9" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-2" parent="1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="805" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-9" edge="1" parent="1" source="IbIzo-WlREjd21_OLtaA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IbIzo-WlREjd21_OLtaA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-3" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="&lt;div&gt;SD&lt;/div&gt;&lt;div&gt;信号检测&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="500" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-10" edge="1" parent="1" source="IbIzo-WlREjd21_OLtaA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IbIzo-WlREjd21_OLtaA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-4" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="&lt;div&gt;AFD&lt;/div&gt;&lt;div&gt;制式识别&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="750" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="IbIzo-WlREjd21_OLtaA-5" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="&lt;div&gt;DEC&lt;/div&gt;&lt;div&gt;视频解码&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1000" y="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
