@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
+  <diagram name="第 1 页" id="a4T6YOpEXVgXbnhKx3_d">
+    <mxGraphModel dx="2766" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-4" edge="1" parent="1" source="-q0IOQjCe8P1cJ8UtehV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-q0IOQjCe8P1cJ8UtehV-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VICAP" vertex="1">
+          <mxGeometry height="40" width="120" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-6" edge="1" parent="1" source="-q0IOQjCe8P1cJ8UtehV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-q0IOQjCe8P1cJ8UtehV-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ISP" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-18" edge="1" parent="1" source="-q0IOQjCe8P1cJ8UtehV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-q0IOQjCe8P1cJ8UtehV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VPU" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VICAP" vertex="1">
+          <mxGeometry height="40" width="120" x="160" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-10" edge="1" parent="1" source="-q0IOQjCe8P1cJ8UtehV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="-q0IOQjCe8P1cJ8UtehV-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VPU" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-15" edge="1" parent="1" source="-q0IOQjCe8P1cJ8UtehV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-q0IOQjCe8P1cJ8UtehV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VPPU" vertex="1">
+          <mxGeometry height="40" width="120" x="1108" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VO" vertex="1">
+          <mxGeometry height="40" width="120" x="1320" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-17" edge="1" parent="1" source="-q0IOQjCe8P1cJ8UtehV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-q0IOQjCe8P1cJ8UtehV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-16" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopStandard=1;" value="旋转线程" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-q0IOQjCe8P1cJ8UtehV-19" edge="1" parent="1" source="-q0IOQjCe8P1cJ8UtehV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="-q0IOQjCe8P1cJ8UtehV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
