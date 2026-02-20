@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="28.2.0" pages="3">
   <diagram name="第 1 页" id="g_HnJDib6mddWaT7zvIJ">
     <mxGraphModel dx="1837" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -208,6 +208,41 @@
         </mxCell>
         <mxCell id="L6l3no_FSZ_pEPem9e3H-51" parent="L6l3no_FSZ_pEPem9e3H-9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="afdMode=1" vertex="1">
           <mxGeometry height="30" width="128" x="269" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="euJoC0I0m3RCEfsY9mGx" name="第 3 页">
+    <mxGraphModel dx="1188" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nO5jAtvj1NZxidXJDqV7-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
+          <mxGeometry x="50" y="261.18" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nO5jAtvj1NZxidXJDqV7-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
+          <mxGeometry x="280" y="261.17999999999995" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nO5jAtvj1NZxidXJDqV7-7" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;" vertex="1" parent="1">
+          <mxGeometry x="160" y="275" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="nO5jAtvj1NZxidXJDqV7-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" vertex="1" parent="1">
+          <mxGeometry x="550" y="256.95" width="94.64" height="94.64" as="geometry" />
+        </mxCell>
+        <mxCell id="nO5jAtvj1NZxidXJDqV7-9" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.square_wave;" vertex="1" parent="1">
+          <mxGeometry x="420" y="299.18" width="110" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="nO5jAtvj1NZxidXJDqV7-10" value="FH6210" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="305" y="289.27" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nO5jAtvj1NZxidXJDqV7-11" value="MC6630" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="567.3199999999999" y="289.27" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nO5jAtvj1NZxidXJDqV7-12" value="模拟视频信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="341.18" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nO5jAtvj1NZxidXJDqV7-13" value="BT656信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="341.18" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
