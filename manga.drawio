@@ -89,7 +89,7 @@
         <mxCell id="2zwXw9Z5dVWk6y3FTPmg-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#9999FF);" value="u-boot-spl.bin" vertex="1">
           <mxGeometry height="40" width="170" x="170" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="2zwXw9Z5dVWk6y3FTPmg-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#9999FF);" value="u-boot-pdl.bin" vertex="1">
+        <mxCell id="2zwXw9Z5dVWk6y3FTPmg-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#9999FF);fillColor=light-dark(default, #ececff);" value="u-boot-pdl.bin" vertex="1">
           <mxGeometry height="40" width="170" x="170" y="120" as="geometry" />
         </mxCell>
         <mxCell id="2zwXw9Z5dVWk6y3FTPmg-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=light-dark(#000000,#9999FF);" value="nor_rtt_image_info_csv" vertex="1">
