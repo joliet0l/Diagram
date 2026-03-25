@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.1" pages="2">
   <diagram name="pipeline" id="a4T6YOpEXVgXbnhKx3_d">
     <mxGraphModel dx="1581" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -74,6 +74,27 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2zwXw9Z5dVWk6y3FTPmg-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mkimage.py" vertex="1">
+          <mxGeometry height="40" width="320" x="710" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="2zwXw9Z5dVWk6y3FTPmg-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ap_rtt_a.bin" vertex="1">
+          <mxGeometry height="40" width="170" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2zwXw9Z5dVWk6y3FTPmg-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="user_data.bin" vertex="1">
+          <mxGeometry height="40" width="170" x="240" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2zwXw9Z5dVWk6y3FTPmg-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sram_vdsp.bin" vertex="1">
+          <mxGeometry height="40" width="170" x="240" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2zwXw9Z5dVWk6y3FTPmg-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="u-boot-spl.bin" vertex="1">
+          <mxGeometry height="40" width="170" x="240" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2zwXw9Z5dVWk6y3FTPmg-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="u-boot-pdl.bin" vertex="1">
+          <mxGeometry height="40" width="170" x="240" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2zwXw9Z5dVWk6y3FTPmg-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="nor_rtt_image_info_csv" vertex="1">
+          <mxGeometry height="40" width="170" x="240" y="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
